@@ -27,7 +27,7 @@ Nexest is a starter project that simplifies the process of initiating a web deve
 2. Navigate to the project directory:
 
    ```bash
-   cd mosta
+   cd nexest
    ```
 
 3. Install dependencies:
