@@ -22,8 +22,8 @@ module.exports = {
       rules: {
         "scope-enum": () => [2, "always", ["web", "server"]],
         "scope-empty": [2, "never"],
-        "type-enum": ({ subject }) => {
-          console.log(subject);
+        "type-enum": (subject) => {
+          console.log("Subject:", subject);
           return [
             2,
             "always",
