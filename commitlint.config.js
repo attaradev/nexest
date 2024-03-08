@@ -1,4 +1,5 @@
 module.exports = {
+  parserPreset: "cz-emoji-conventional-message",
   rules: {
     "type-enum": [
       2,
